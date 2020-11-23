@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.exe
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.deps.json
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.runtimeconfig.json
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.dll
+C:\Users\Admin\source\repos\AuTG\LongestPath\bin\Release\netcoreapp3.1\LongestPath.pdb
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.AssemblyInfo.cs
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.dll
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.pdb
+C:\Users\Admin\source\repos\AuTG\LongestPath\obj\Release\netcoreapp3.1\LongestPath.genruntimeconfig.cache
